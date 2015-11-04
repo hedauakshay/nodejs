@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.im-centered { margin: auto;}
+
+.hero {
+  background-color: #CCCCCC;
+  padding: 0 90px;
+}
+
+input.ng-invalid{
+	border:1px solid red;
+}
